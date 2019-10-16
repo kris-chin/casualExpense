@@ -1,0 +1,20 @@
+{
+  "name": "recurring_expense",
+  "version": "0.0.0",
+  "description": "Visualize your recurring expenses.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krikrifreeze/casualExpense.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Krikrifreeze/casualExpense/issues"
+  },
+  "homepage": "https://github.com/Krikrifreeze/casualExpense#readme",
+  "devDependencies": {
+    "electron": "^6.0.12"
+  }
+}
