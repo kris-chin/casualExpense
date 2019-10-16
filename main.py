@@ -22,7 +22,9 @@ from Expense import *
 
 def main():
     expenses = [
-        Expense("Coffee",2.45,1),
+        #Expense("UCR Grande Iced Coffee", 2.95,1), #-> roughly $23 per week
+        Expense("UCR Grande Drip Coffee",2.25,1), #-> roughly $17 per week
+        #Expense("Coffee",2.45,1),
         Expense("Gas", 20, 4),
         Expense("Lunch",6.59,1,spread=(0,4))
     ]
